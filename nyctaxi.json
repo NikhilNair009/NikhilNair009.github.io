@@ -1,0 +1,1532 @@
+[
+ {
+   "Month": {
+      "Year": "2017-06"
+   },
+   "Trips Per Day": " 321,877 ",
+   "Farebox Per Day": " 4,751,867 ",
+   "Unique Drivers": " 26,664 ",
+   "Unique Medallions": " 12,894 ",
+   "Medallions Per Day": " 12,038 ",
+   "Avg Days Medallions on Road": 28,
+   "Avg Hours Per Day Per Medallion": 12.4,
+   "Avg Days Drivers on Road": 21.5,
+   "Avg Hours Per Day Per Driver": 7.8,
+   "Avg Minutes Per Trip": 14.8,
+   "Percent of Trips Paid with Credit Card": "67%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2017-05"
+   },
+   "Trips Per Day": "325,857",
+   "Farebox Per Day": "4,848,494",
+   "Unique Drivers": "27,655",
+   "Unique Medallions": "12,977",
+   "Medallions Per Day": "12,159",
+   "Avg Days Medallions on Road": 29,
+   "Avg Hours Per Day Per Medallion": 12.6,
+   "Avg Days Drivers on Road": 21.9,
+   "Avg Hours Per Day Per Driver": 7.8,
+   "Avg Minutes Per Trip": 15,
+   "Percent of Trips Paid with Credit Card": "67%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2017-04"
+   },
+   "Trips Per Day": "334,865",
+   "Farebox Per Day": "4,865,420",
+   "Unique Drivers": "27,802",
+   "Unique Medallions": "12,981",
+   "Medallions Per Day": "12,229",
+   "Avg Days Medallions on Road": 28.3,
+   "Avg Hours Per Day Per Medallion": 12.8,
+   "Avg Days Drivers on Road": 21.4,
+   "Avg Hours Per Day Per Driver": 7.9,
+   "Avg Minutes Per Trip": 14.3,
+   "Percent of Trips Paid with Credit Card": "67%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2017-03"
+   },
+   "Trips Per Day": "332,075",
+   "Farebox Per Day": "4,770,322",
+   "Unique Drivers": "27,900",
+   "Unique Medallions": "12,990",
+   "Medallions Per Day": "12,146",
+   "Avg Days Medallions on Road": 29,
+   "Avg Hours Per Day Per Medallion": 12.8,
+   "Avg Days Drivers on Road": 21.8,
+   "Avg Hours Per Day Per Driver": 7.9,
+   "Avg Minutes Per Trip": 14,
+   "Percent of Trips Paid with Credit Card": "68%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2017-02"
+   },
+   "Trips Per Day": "327,451",
+   "Farebox Per Day": "4,531,822",
+   "Unique Drivers": "27,523",
+   "Unique Medallions": "12,967",
+   "Medallions Per Day": "12,112",
+   "Avg Days Medallions on Road": 26.2,
+   "Avg Hours Per Day Per Medallion": 12.6,
+   "Avg Days Drivers on Road": 19.6,
+   "Avg Hours Per Day Per Driver": 7.9,
+   "Avg Minutes Per Trip": 13.3,
+   "Percent of Trips Paid with Credit Card": "68%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2017-01"
+   },
+   "Trips Per Day": "313,229",
+   "Farebox Per Day": "4,314,880",
+   "Unique Drivers": "27,782",
+   "Unique Medallions": "13,058",
+   "Medallions Per Day": "11,990",
+   "Avg Days Medallions on Road": 28.5,
+   "Avg Hours Per Day Per Medallion": 12.2,
+   "Avg Days Drivers on Road": 21,
+   "Avg Hours Per Day Per Driver": 7.8,
+   "Avg Minutes Per Trip": 13,
+   "Percent of Trips Paid with Credit Card": "67%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2016-12"
+   },
+   "Trips Per Day": "337,071",
+   "Farebox Per Day": "4,869,413",
+   "Unique Drivers": "28,743",
+   "Unique Medallions": "13,197",
+   "Medallions Per Day": "12,329",
+   "Avg Days Medallions on Road": 29,
+   "Avg Hours Per Day Per Medallion": 12.8,
+   "Avg Days Drivers on Road": 21.7,
+   "Avg Hours Per Day Per Driver": 7.8,
+   "Avg Minutes Per Trip": 14.6,
+   "Percent of Trips Paid with Credit Card": "64%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2016-11"
+   },
+   "Trips Per Day": "336,737",
+   "Farebox Per Day": "4,980,423",
+   "Unique Drivers": "29,080",
+   "Unique Medallions": "13,159",
+   "Medallions Per Day": "12,437",
+   "Avg Days Medallions on Road": 28.4,
+   "Avg Hours Per Day Per Medallion": 12.9,
+   "Avg Days Drivers on Road": 21.3,
+   "Avg Hours Per Day Per Driver": 7.8,
+   "Avg Minutes Per Trip": 15.9,
+   "Percent of Trips Paid with Credit Card": "66%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2016-10"
+   },
+   "Trips Per Day": "350,380",
+   "Farebox Per Day": "5,196,275",
+   "Unique Drivers": "29,383",
+   "Unique Medallions": "13,198",
+   "Medallions Per Day": "12,433",
+   "Avg Days Medallions on Road": 29.2,
+   "Avg Hours Per Day Per Medallion": 13.1,
+   "Avg Days Drivers on Road": 21.8,
+   "Avg Hours Per Day Per Driver": 7.9,
+   "Avg Minutes Per Trip": 16,
+   "Percent of Trips Paid with Credit Card": "66%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2016-09"
+   },
+   "Trips Per Day": "337,321",
+   "Farebox Per Day": "5,167,170",
+   "Unique Drivers": "28,526",
+   "Unique Medallions": "13,166",
+   "Medallions Per Day": "12,137",
+   "Avg Days Medallions on Road": 27.7,
+   "Avg Hours Per Day Per Medallion": 12.8,
+   "Avg Days Drivers on Road": 20.6,
+   "Avg Hours Per Day Per Driver": 7.9,
+   "Avg Minutes Per Trip": 16,
+   "Percent of Trips Paid with Credit Card": "66%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2016-08"
+   },
+   "Trips Per Day": "320,718",
+   "Farebox Per Day": "4,722,586",
+   "Unique Drivers": "28,340",
+   "Unique Medallions": "13,203",
+   "Medallions Per Day": "12,266",
+   "Avg Days Medallions on Road": 28.8,
+   "Avg Hours Per Day Per Medallion": 12.5,
+   "Avg Days Drivers on Road": 21.7,
+   "Avg Hours Per Day Per Driver": 7.8,
+   "Avg Minutes Per Trip": 15.5,
+   "Percent of Trips Paid with Credit Card": "64%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2016-07"
+   },
+   "Trips Per Day": "332,231",
+   "Farebox Per Day": "4,924,633",
+   "Unique Drivers": "29,062",
+   "Unique Medallions": "13,293",
+   "Medallions Per Day": "12,266",
+   "Avg Days Medallions on Road": 28.6,
+   "Avg Hours Per Day Per Medallion": 12.6,
+   "Avg Days Drivers on Road": 21.3,
+   "Avg Hours Per Day Per Driver": 7.8,
+   "Avg Minutes Per Trip": 15.7,
+   "Percent of Trips Paid with Credit Card": "64%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2016-06"
+   },
+   "Trips Per Day": "371,257",
+   "Farebox Per Day": "5,564,246",
+   "Unique Drivers": "29,899",
+   "Unique Medallions": "13,354",
+   "Medallions Per Day": "12,781",
+   "Avg Days Medallions on Road": 28.7,
+   "Avg Hours Per Day Per Medallion": 13.3,
+   "Avg Days Drivers on Road": 21.8,
+   "Avg Hours Per Day Per Driver": 7.8,
+   "Avg Minutes Per Trip": 16.7,
+   "Percent of Trips Paid with Credit Card": "66%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2016-05"
+   },
+   "Trips Per Day": "381,878",
+   "Farebox Per Day": "5,654,653",
+   "Unique Drivers": "30,509",
+   "Unique Medallions": "13,381",
+   "Medallions Per Day": "12,777",
+   "Avg Days Medallions on Road": 29.6,
+   "Avg Hours Per Day Per Medallion": 13.5,
+   "Avg Days Drivers on Road": 22.1,
+   "Avg Hours Per Day Per Driver": 8,
+   "Avg Minutes Per Trip": 15.8,
+   "Percent of Trips Paid with Credit Card": "66%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2016-04"
+   },
+   "Trips Per Day": "397,780",
+   "Farebox Per Day": "5,721,501",
+   "Unique Drivers": "30,488",
+   "Unique Medallions": "13,370",
+   "Medallions Per Day": "12,875",
+   "Avg Days Medallions on Road": 28.9,
+   "Avg Hours Per Day Per Medallion": 13.8,
+   "Avg Days Drivers on Road": 21.7,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 17.4,
+   "Percent of Trips Paid with Credit Card": "67%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2016-03"
+   },
+   "Trips Per Day": "393,886",
+   "Farebox Per Day": "5,614,089",
+   "Unique Drivers": "30,327",
+   "Unique Medallions": "13,379",
+   "Medallions Per Day": "12,828",
+   "Avg Days Medallions on Road": 29.7,
+   "Avg Hours Per Day Per Medallion": 13.6,
+   "Avg Days Drivers on Road": 22.2,
+   "Avg Hours Per Day Per Driver": 8,
+   "Avg Minutes Per Trip": 15,
+   "Percent of Trips Paid with Credit Card": "67%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2016-02"
+   },
+   "Trips Per Day": "392,470",
+   "Farebox Per Day": "5,427,875",
+   "Unique Drivers": "29,564",
+   "Unique Medallions": "13,339",
+   "Medallions Per Day": "12,718",
+   "Avg Days Medallions on Road": 27.7,
+   "Avg Hours Per Day Per Medallion": 13.4,
+   "Avg Days Drivers on Road": 20.8,
+   "Avg Hours Per Day Per Driver": 8,
+   "Avg Minutes Per Trip": 14.6,
+   "Percent of Trips Paid with Credit Card": "67%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2016-01"
+   },
+   "Trips Per Day": "351,816",
+   "Farebox Per Day": "4,886,897",
+   "Unique Drivers": "29,276",
+   "Unique Medallions": "13,347",
+   "Medallions Per Day": "12,244",
+   "Avg Days Medallions on Road": 28.4,
+   "Avg Hours Per Day Per Medallion": 12.7,
+   "Avg Days Drivers on Road": 21,
+   "Avg Hours Per Day Per Driver": 7.9,
+   "Avg Minutes Per Trip": 15.4,
+   "Percent of Trips Paid with Credit Card": "66%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2015-12"
+   },
+   "Trips Per Day": "369,686",
+   "Farebox Per Day": "5,425,880",
+   "Unique Drivers": "29,917",
+   "Unique Medallions": "13,429",
+   "Medallions Per Day": "12,641",
+   "Avg Days Medallions on Road": 29.2,
+   "Avg Hours Per Day Per Medallion": 13.2,
+   "Avg Days Drivers on Road": 22,
+   "Avg Hours Per Day Per Driver": 7.9,
+   "Avg Minutes Per Trip": 18.4,
+   "Percent of Trips Paid with Credit Card": "63%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2015-11"
+   },
+   "Trips Per Day": "377,076",
+   "Farebox Per Day": "5,502,861",
+   "Unique Drivers": "30,270",
+   "Unique Medallions": "13,428",
+   "Medallions Per Day": "12,732",
+   "Avg Days Medallions on Road": 28.4,
+   "Avg Hours Per Day Per Medallion": 13.3,
+   "Avg Days Drivers on Road": 21.3,
+   "Avg Hours Per Day Per Driver": 7.9,
+   "Avg Minutes Per Trip": 20.4,
+   "Percent of Trips Paid with Credit Card": "64%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2015-10"
+   },
+   "Trips Per Day": "397,244",
+   "Farebox Per Day": "5,856,687",
+   "Unique Drivers": "30,104",
+   "Unique Medallions": "13,436",
+   "Medallions Per Day": "12,787",
+   "Avg Days Medallions on Road": 29.5,
+   "Avg Hours Per Day Per Medallion": 13.7,
+   "Avg Days Drivers on Road": 22.4,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 17.3,
+   "Percent of Trips Paid with Credit Card": "64%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2015-09"
+   },
+   "Trips Per Day": "374,156",
+   "Farebox Per Day": "5,520,038",
+   "Unique Drivers": "29,912",
+   "Unique Medallions": "13,423",
+   "Medallions Per Day": "12,523",
+   "Avg Days Medallions on Road": 28,
+   "Avg Hours Per Day Per Medallion": 13.2,
+   "Avg Days Drivers on Road": 20.8,
+   "Avg Hours Per Day Per Driver": 8,
+   "Avg Minutes Per Trip": 16.5,
+   "Percent of Trips Paid with Credit Card": "62%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2015-08"
+   },
+   "Trips Per Day": "359,029",
+   "Farebox Per Day": "5,200,177",
+   "Unique Drivers": "29,688",
+   "Unique Medallions": "13,442",
+   "Medallions Per Day": "12,579",
+   "Avg Days Medallions on Road": 29,
+   "Avg Hours Per Day Per Medallion": 13.1,
+   "Avg Days Drivers on Road": 21.7,
+   "Avg Hours Per Day Per Driver": 7.9,
+   "Avg Minutes Per Trip": 16.1,
+   "Percent of Trips Paid with Credit Card": "61%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2015-07"
+   },
+   "Trips Per Day": "372,979",
+   "Farebox Per Day": "5,392,570",
+   "Unique Drivers": "29,999",
+   "Unique Medallions": "13,490",
+   "Medallions Per Day": "12,599",
+   "Avg Days Medallions on Road": 29,
+   "Avg Hours Per Day Per Medallion": 13.1,
+   "Avg Days Drivers on Road": 21.8,
+   "Avg Hours Per Day Per Driver": 7.9,
+   "Avg Minutes Per Trip": 15.7,
+   "Percent of Trips Paid with Credit Card": "62%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2015-06"
+   },
+   "Trips Per Day": "410,831",
+   "Farebox Per Day": "6,014,938",
+   "Unique Drivers": "30,829",
+   "Unique Medallions": "13,549",
+   "Medallions Per Day": "12,990",
+   "Avg Days Medallions on Road": 28.8,
+   "Avg Hours Per Day Per Medallion": 13.8,
+   "Avg Days Drivers on Road": 21.9,
+   "Avg Hours Per Day Per Driver": 8,
+   "Avg Minutes Per Trip": 16.9,
+   "Percent of Trips Paid with Credit Card": "63%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2015-05"
+   },
+   "Trips Per Day": "424,459",
+   "Farebox Per Day": "6,239,552",
+   "Unique Drivers": "31,442",
+   "Unique Medallions": "13,580",
+   "Medallions Per Day": "13,006",
+   "Avg Days Medallions on Road": 29.7,
+   "Avg Hours Per Day Per Medallion": 14.1,
+   "Avg Days Drivers on Road": 22.4,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 16.4,
+   "Percent of Trips Paid with Credit Card": "62%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2015-04"
+   },
+   "Trips Per Day": "435,701",
+   "Farebox Per Day": "6,226,205",
+   "Unique Drivers": "31,574",
+   "Unique Medallions": "13,577",
+   "Medallions Per Day": "13,098",
+   "Avg Days Medallions on Road": 28.9,
+   "Avg Hours Per Day Per Medallion": 14.2,
+   "Avg Days Drivers on Road": 21.9,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 16.9,
+   "Percent of Trips Paid with Credit Card": "63%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2015-03"
+   },
+   "Trips Per Day": "430,669",
+   "Farebox Per Day": "6,076,181",
+   "Unique Drivers": "31,610",
+   "Unique Medallions": "13,584",
+   "Medallions Per Day": "13,030",
+   "Avg Days Medallions on Road": 29.7,
+   "Avg Hours Per Day Per Medallion": 14,
+   "Avg Days Drivers on Road": 22.3,
+   "Avg Hours Per Day Per Driver": 8,
+   "Avg Minutes Per Trip": 16.8,
+   "Percent of Trips Paid with Credit Card": "63%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2015-02"
+   },
+   "Trips Per Day": "444,633",
+   "Farebox Per Day": "6,097,785",
+   "Unique Drivers": "30,969",
+   "Unique Medallions": "13,617",
+   "Medallions Per Day": "12,979",
+   "Avg Days Medallions on Road": 26.7,
+   "Avg Hours Per Day Per Medallion": 14.1,
+   "Avg Days Drivers on Road": 20.3,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 15.8,
+   "Percent of Trips Paid with Credit Card": "64%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2015-01"
+   },
+   "Trips Per Day": "411,238",
+   "Farebox Per Day": "5,442,278",
+   "Unique Drivers": "31,236",
+   "Unique Medallions": "13,633",
+   "Medallions Per Day": "12,721",
+   "Avg Days Medallions on Road": 28.9,
+   "Avg Hours Per Day Per Medallion": 13.4,
+   "Avg Days Drivers on Road": 21.5,
+   "Avg Hours Per Day Per Driver": 7.9,
+   "Avg Minutes Per Trip": 15,
+   "Percent of Trips Paid with Credit Card": "62%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2014-12"
+   },
+   "Trips Per Day": "419,776",
+   "Farebox Per Day": "5,868,025",
+   "Unique Drivers": "32,048",
+   "Unique Medallions": "13,642",
+   "Medallions Per Day": "13,041",
+   "Avg Days Medallions on Road": 29.6,
+   "Avg Hours Per Day Per Medallion": 13.9,
+   "Avg Days Drivers on Road": 22.3,
+   "Avg Hours Per Day Per Driver": 7.9,
+   "Avg Minutes Per Trip": 14,
+   "Percent of Trips Paid with Credit Card": "58%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2014-11"
+   },
+   "Trips Per Day": "440,576",
+   "Farebox Per Day": "6,113,253",
+   "Unique Drivers": "32,260",
+   "Unique Medallions": "13,642",
+   "Medallions Per Day": "13,095",
+   "Avg Days Medallions on Road": 28.8,
+   "Avg Hours Per Day Per Medallion": 14.3,
+   "Avg Days Drivers on Road": 21.8,
+   "Avg Hours Per Day Per Driver": 8,
+   "Avg Minutes Per Trip": 13.8,
+   "Percent of Trips Paid with Credit Card": "59%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2014-10"
+   },
+   "Trips Per Day": "459,087",
+   "Farebox Per Day": "6,432,093",
+   "Unique Drivers": "32,091",
+   "Unique Medallions": "13,665",
+   "Medallions Per Day": "13,162",
+   "Avg Days Medallions on Road": 29.9,
+   "Avg Hours Per Day Per Medallion": 14.5,
+   "Avg Days Drivers on Road": 22.7,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 13.8,
+   "Percent of Trips Paid with Credit Card": "59%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2014-09"
+   },
+   "Trips Per Day": "445,782",
+   "Farebox Per Day": "6,284,615",
+   "Unique Drivers": "32,191",
+   "Unique Medallions": "13,647",
+   "Medallions Per Day": "13,087",
+   "Avg Days Medallions on Road": 28.8,
+   "Avg Hours Per Day Per Medallion": 14.3,
+   "Avg Days Drivers on Road": 21.7,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 13.9,
+   "Percent of Trips Paid with Credit Card": "59%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2014-08"
+   },
+   "Trips Per Day": "409,305",
+   "Farebox Per Day": "5,709,153",
+   "Unique Drivers": "31,429",
+   "Unique Medallions": "13,622",
+   "Medallions Per Day": "12,919",
+   "Avg Days Medallions on Road": 29.4,
+   "Avg Hours Per Day Per Medallion": 13.8,
+   "Avg Days Drivers on Road": 22.2,
+   "Avg Hours Per Day Per Driver": 7.9,
+   "Avg Minutes Per Trip": 13.1,
+   "Percent of Trips Paid with Credit Card": "57%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2014-07"
+   },
+   "Trips Per Day": "422,771",
+   "Farebox Per Day": "5,832,040",
+   "Unique Drivers": "31,515",
+   "Unique Medallions": "13,633",
+   "Medallions Per Day": "12,943",
+   "Avg Days Medallions on Road": 29.4,
+   "Avg Hours Per Day Per Medallion": 13.8,
+   "Avg Days Drivers on Road": 22.5,
+   "Avg Hours Per Day Per Driver": 7.8,
+   "Avg Minutes Per Trip": 13,
+   "Percent of Trips Paid with Credit Card": "57%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2014-06"
+   },
+   "Trips Per Day": "460,393",
+   "Farebox Per Day": "6,490,355",
+   "Unique Drivers": "32,747",
+   "Unique Medallions": "13,651",
+   "Medallions Per Day": "13,154",
+   "Avg Days Medallions on Road": 28.9,
+   "Avg Hours Per Day Per Medallion": 14.6,
+   "Avg Days Drivers on Road": 22,
+   "Avg Hours Per Day Per Driver": 8,
+   "Avg Minutes Per Trip": 13.6,
+   "Percent of Trips Paid with Credit Card": "58%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2014-05"
+   },
+   "Trips Per Day": "476,569",
+   "Farebox Per Day": "6,718,530",
+   "Unique Drivers": "33,060",
+   "Unique Medallions": "13,581",
+   "Medallions Per Day": "13,098",
+   "Avg Days Medallions on Road": 29.9,
+   "Avg Hours Per Day Per Medallion": 14.9,
+   "Avg Days Drivers on Road": 22.7,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 13.6,
+   "Percent of Trips Paid with Credit Card": "57%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2014-04"
+   },
+   "Trips Per Day": "487,275",
+   "Farebox Per Day": "6,613,192",
+   "Unique Drivers": "33,086",
+   "Unique Medallions": "13,524",
+   "Medallions Per Day": "13,074",
+   "Avg Days Medallions on Road": 29,
+   "Avg Hours Per Day Per Medallion": 15,
+   "Avg Days Drivers on Road": 22,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 12.9,
+   "Percent of Trips Paid with Credit Card": "57%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2014-03"
+   },
+   "Trips Per Day": "497,661",
+   "Farebox Per Day": "6,612,023",
+   "Unique Drivers": "33,229",
+   "Unique Medallions": "13,442",
+   "Medallions Per Day": "13,020",
+   "Avg Days Medallions on Road": 30,
+   "Avg Hours Per Day Per Medallion": 15.1,
+   "Avg Days Drivers on Road": 22.6,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 12.4,
+   "Percent of Trips Paid with Credit Card": "58%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2014-02"
+   },
+   "Trips Per Day": "466,522",
+   "Farebox Per Day": "6,122,310",
+   "Unique Drivers": "32,634",
+   "Unique Medallions": "13,376",
+   "Medallions Per Day": "12,852",
+   "Avg Days Medallions on Road": 26.9,
+   "Avg Hours Per Day Per Medallion": 14.6,
+   "Avg Days Drivers on Road": 20.2,
+   "Avg Hours Per Day Per Driver": 8,
+   "Avg Minutes Per Trip": 12.6,
+   "Percent of Trips Paid with Credit Card": "59%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2014-01"
+   },
+   "Trips Per Day": "444,537",
+   "Farebox Per Day": "5,790,713",
+   "Unique Drivers": "32,775",
+   "Unique Medallions": "13,366",
+   "Medallions Per Day": "12,778",
+   "Avg Days Medallions on Road": 29.6,
+   "Avg Hours Per Day Per Medallion": 14.1,
+   "Avg Days Drivers on Road": 21.9,
+   "Avg Hours Per Day Per Driver": 7.8,
+   "Avg Minutes Per Trip": 12.2,
+   "Percent of Trips Paid with Credit Card": "57%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2013-12"
+   },
+   "Trips Per Day": "450,634",
+   "Farebox Per Day": "6,176,199",
+   "Unique Drivers": "33,335",
+   "Unique Medallions": "13,356",
+   "Medallions Per Day": "12,858",
+   "Avg Days Medallions on Road": 29.8,
+   "Avg Hours Per Day Per Medallion": 14.5,
+   "Avg Days Drivers on Road": 22.2,
+   "Avg Hours Per Day Per Driver": 7.8,
+   "Avg Minutes Per Trip": 13.1,
+   "Percent of Trips Paid with Credit Card": "53%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2013-11"
+   },
+   "Trips Per Day": "479,527",
+   "Farebox Per Day": "6,470,910",
+   "Unique Drivers": "33,191",
+   "Unique Medallions": "13,336",
+   "Medallions Per Day": "12,926",
+   "Avg Days Medallions on Road": 29.1,
+   "Avg Hours Per Day Per Medallion": 15,
+   "Avg Days Drivers on Road": 21.9,
+   "Avg Hours Per Day Per Driver": 8,
+   "Avg Minutes Per Trip": 12.9,
+   "Percent of Trips Paid with Credit Card": "55%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2013-10"
+   },
+   "Trips Per Day": "483,921",
+   "Farebox Per Day": "6,648,711",
+   "Unique Drivers": "33,417",
+   "Unique Medallions": "13,334",
+   "Medallions Per Day": "12,962",
+   "Avg Days Medallions on Road": 30.1,
+   "Avg Hours Per Day Per Medallion": 15,
+   "Avg Days Drivers on Road": 22.5,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 13.1,
+   "Percent of Trips Paid with Credit Card": "56%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2013-09"
+   },
+   "Trips Per Day": "470,147",
+   "Farebox Per Day": "6,493,533",
+   "Unique Drivers": "33,292",
+   "Unique Medallions": "13,340",
+   "Medallions Per Day": "12,881",
+   "Avg Days Medallions on Road": 29,
+   "Avg Hours Per Day Per Medallion": 14.9,
+   "Avg Days Drivers on Road": 21.5,
+   "Avg Hours Per Day Per Driver": 8,
+   "Avg Minutes Per Trip": 13.1,
+   "Percent of Trips Paid with Credit Card": "55%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2013-08"
+   },
+   "Trips Per Day": "406,246",
+   "Farebox Per Day": "5,553,989",
+   "Unique Drivers": "32,388",
+   "Unique Medallions": "13,318",
+   "Medallions Per Day": "11,959",
+   "Avg Days Medallions on Road": 27.8,
+   "Avg Hours Per Day Per Medallion": 14.2,
+   "Avg Days Drivers on Road": 20.7,
+   "Avg Hours Per Day Per Driver": 7.9,
+   "Avg Minutes Per Trip": null,
+   "Percent of Trips Paid with Credit Card": "54%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2013-07"
+   },
+   "Trips Per Day": "445,861",
+   "Farebox Per Day": "5,983,709",
+   "Unique Drivers": "32,748",
+   "Unique Medallions": "13,327",
+   "Medallions Per Day": "12,830",
+   "Avg Days Medallions on Road": 29.8,
+   "Avg Hours Per Day Per Medallion": 14.3,
+   "Avg Days Drivers on Road": 22.2,
+   "Avg Hours Per Day Per Driver": 7.8,
+   "Avg Minutes Per Trip": 12.5,
+   "Percent of Trips Paid with Credit Card": "53%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2013-06"
+   },
+   "Trips Per Day": "479,148",
+   "Farebox Per Day": "6,555,608",
+   "Unique Drivers": "33,452",
+   "Unique Medallions": "13,341",
+   "Medallions Per Day": "12,922",
+   "Avg Days Medallions on Road": 29.1,
+   "Avg Hours Per Day Per Medallion": 15,
+   "Avg Days Drivers on Road": 21.7,
+   "Avg Hours Per Day Per Driver": 8,
+   "Avg Minutes Per Trip": 13,
+   "Percent of Trips Paid with Credit Card": "54%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2013-05"
+   },
+   "Trips Per Day": "492,962",
+   "Farebox Per Day": "6,744,373",
+   "Unique Drivers": "33,267",
+   "Unique Medallions": "13,334",
+   "Medallions Per Day": "12,929",
+   "Avg Days Medallions on Road": 30.1,
+   "Avg Hours Per Day Per Medallion": 15.1,
+   "Avg Days Drivers on Road": 22.5,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 13,
+   "Percent of Trips Paid with Credit Card": "53%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2013-04"
+   },
+   "Trips Per Day": "503,249",
+   "Farebox Per Day": "6,714,891",
+   "Unique Drivers": "33,084",
+   "Unique Medallions": "13,343",
+   "Medallions Per Day": "12,949",
+   "Avg Days Medallions on Road": 29.1,
+   "Avg Hours Per Day Per Medallion": 15.1,
+   "Avg Days Drivers on Road": 21.9,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 12.4,
+   "Percent of Trips Paid with Credit Card": "54%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2013-03"
+   },
+   "Trips Per Day": "507,914",
+   "Farebox Per Day": "6,646,912",
+   "Unique Drivers": "32,965",
+   "Unique Medallions": "13,334",
+   "Medallions Per Day": "12,927",
+   "Avg Days Medallions on Road": 30.1,
+   "Avg Hours Per Day Per Medallion": 15,
+   "Avg Days Drivers on Road": 22.5,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 12,
+   "Percent of Trips Paid with Credit Card": "53%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2013-02"
+   },
+   "Trips Per Day": "499,556",
+   "Farebox Per Day": "6,356,651",
+   "Unique Drivers": "32,052",
+   "Unique Medallions": "13,338",
+   "Medallions Per Day": "12,867",
+   "Avg Days Medallions on Road": 27,
+   "Avg Hours Per Day Per Medallion": 14.6,
+   "Avg Days Drivers on Road": 20.4,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 11.7,
+   "Percent of Trips Paid with Credit Card": "54%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2013-01"
+   },
+   "Trips Per Day": "476,544",
+   "Farebox Per Day": "6,045,087",
+   "Unique Drivers": "32,213",
+   "Unique Medallions": "13,344",
+   "Medallions Per Day": "12,863",
+   "Avg Days Medallions on Road": 29.9,
+   "Avg Hours Per Day Per Medallion": 14.4,
+   "Avg Days Drivers on Road": 22.3,
+   "Avg Hours Per Day Per Driver": 8,
+   "Avg Minutes Per Trip": 11.4,
+   "Percent of Trips Paid with Credit Card": "52%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2012-12"
+   },
+   "Trips Per Day": "474,005",
+   "Farebox Per Day": "6,326,604",
+   "Unique Drivers": "32,257",
+   "Unique Medallions": "13,346",
+   "Medallions Per Day": "12,806",
+   "Avg Days Medallions on Road": 29.7,
+   "Avg Hours Per Day Per Medallion": 14.6,
+   "Avg Days Drivers on Road": 22.4,
+   "Avg Hours Per Day Per Driver": 8,
+   "Avg Minutes Per Trip": 12.5,
+   "Percent of Trips Paid with Credit Card": "49%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2012-11"
+   },
+   "Trips Per Day": "459,114",
+   "Farebox Per Day": "6,094,937",
+   "Unique Drivers": "31,701",
+   "Unique Medallions": "13,324",
+   "Medallions Per Day": "12,551",
+   "Avg Days Medallions on Road": 28.3,
+   "Avg Hours Per Day Per Medallion": 14.2,
+   "Avg Days Drivers on Road": 21.3,
+   "Avg Hours Per Day Per Driver": 7.9,
+   "Avg Minutes Per Trip": 12.5,
+   "Percent of Trips Paid with Credit Card": "50%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2012-10"
+   },
+   "Trips Per Day": "468,377",
+   "Farebox Per Day": "6,346,508",
+   "Unique Drivers": "32,104",
+   "Unique Medallions": "13,328",
+   "Medallions Per Day": "12,555",
+   "Avg Days Medallions on Road": 29.2,
+   "Avg Hours Per Day Per Medallion": 14.6,
+   "Avg Days Drivers on Road": 22,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 12.8,
+   "Percent of Trips Paid with Credit Card": "50%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2012-09"
+   },
+   "Trips Per Day": "484,783",
+   "Farebox Per Day": "6,512,203",
+   "Unique Drivers": "31,698",
+   "Unique Medallions": "13,322",
+   "Medallions Per Day": "12,826",
+   "Avg Days Medallions on Road": 28.9,
+   "Avg Hours Per Day Per Medallion": 14.9,
+   "Avg Days Drivers on Road": 22,
+   "Avg Hours Per Day Per Driver": 8.2,
+   "Avg Minutes Per Trip": 12.8,
+   "Percent of Trips Paid with Credit Card": "50%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2012-08"
+   },
+   "Trips Per Day": "463,841",
+   "Farebox Per Day": "5,357,572",
+   "Unique Drivers": "30,777",
+   "Unique Medallions": "13,318",
+   "Medallions Per Day": "12,785",
+   "Avg Days Medallions on Road": 29.8,
+   "Avg Hours Per Day Per Medallion": 14.4,
+   "Avg Days Drivers on Road": 22.8,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 12.3,
+   "Percent of Trips Paid with Credit Card": "48%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2012-07"
+   },
+   "Trips Per Day": "463,784",
+   "Farebox Per Day": "5,292,247",
+   "Unique Drivers": "31,174",
+   "Unique Medallions": "13,320",
+   "Medallions Per Day": "12,773",
+   "Avg Days Medallions on Road": 29.7,
+   "Avg Hours Per Day Per Medallion": 14.4,
+   "Avg Days Drivers on Road": 22.7,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 12.2,
+   "Percent of Trips Paid with Credit Card": "48%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2012-06"
+   },
+   "Trips Per Day": "503,139",
+   "Farebox Per Day": "5,831,841",
+   "Unique Drivers": "31,561",
+   "Unique Medallions": "13,332",
+   "Medallions Per Day": "12,940",
+   "Avg Days Medallions on Road": 29.1,
+   "Avg Hours Per Day Per Medallion": 15.1,
+   "Avg Days Drivers on Road": 22.6,
+   "Avg Hours Per Day Per Driver": 8.3,
+   "Avg Minutes Per Trip": 12.8,
+   "Percent of Trips Paid with Credit Card": "48%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2012-05"
+   },
+   "Trips Per Day": "502,097",
+   "Farebox Per Day": "5,838,542",
+   "Unique Drivers": "31,723",
+   "Unique Medallions": "13,325",
+   "Medallions Per Day": "12,887",
+   "Avg Days Medallions on Road": 30,
+   "Avg Hours Per Day Per Medallion": 15.1,
+   "Avg Days Drivers on Road": 23,
+   "Avg Hours Per Day Per Driver": 8.3,
+   "Avg Minutes Per Trip": 12.9,
+   "Percent of Trips Paid with Credit Card": "47%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2012-04"
+   },
+   "Trips Per Day": "515,848",
+   "Farebox Per Day": "5,861,876",
+   "Unique Drivers": "31,579",
+   "Unique Medallions": "13,319",
+   "Medallions Per Day": "12,864",
+   "Avg Days Medallions on Road": 29,
+   "Avg Hours Per Day Per Medallion": 15.1,
+   "Avg Days Drivers on Road": 22.2,
+   "Avg Hours Per Day Per Driver": 8.3,
+   "Avg Minutes Per Trip": 12.2,
+   "Percent of Trips Paid with Credit Card": "47%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2012-03"
+   },
+   "Trips Per Day": "520,764",
+   "Farebox Per Day": "5,860,835",
+   "Unique Drivers": "31,401",
+   "Unique Medallions": "13,320",
+   "Medallions Per Day": "12,927",
+   "Avg Days Medallions on Road": 30.1,
+   "Avg Hours Per Day Per Medallion": 15.1,
+   "Avg Days Drivers on Road": 23.2,
+   "Avg Hours Per Day Per Driver": 8.3,
+   "Avg Minutes Per Trip": 12,
+   "Percent of Trips Paid with Credit Card": "48%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2012-02"
+   },
+   "Trips Per Day": "516,585",
+   "Farebox Per Day": "5,655,691",
+   "Unique Drivers": "30,803",
+   "Unique Medallions": "13,317",
+   "Medallions Per Day": "12,896",
+   "Avg Days Medallions on Road": 28.1,
+   "Avg Hours Per Day Per Medallion": 14.9,
+   "Avg Days Drivers on Road": 21.8,
+   "Avg Hours Per Day Per Driver": 8.3,
+   "Avg Minutes Per Trip": 11.6,
+   "Percent of Trips Paid with Credit Card": "48%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2012-01"
+   },
+   "Trips Per Day": "482,811",
+   "Farebox Per Day": "5,220,456",
+   "Unique Drivers": "30,944",
+   "Unique Medallions": "13,317",
+   "Medallions Per Day": "12,588",
+   "Avg Days Medallions on Road": 29.3,
+   "Avg Hours Per Day Per Medallion": 14.5,
+   "Avg Days Drivers on Road": 22.3,
+   "Avg Hours Per Day Per Driver": 8.2,
+   "Avg Minutes Per Trip": 11.3,
+   "Percent of Trips Paid with Credit Card": "47%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2011-12"
+   },
+   "Trips Per Day": "481,410",
+   "Farebox Per Day": "5,493,999",
+   "Unique Drivers": "31,196",
+   "Unique Medallions": "13,323",
+   "Medallions Per Day": "12,830",
+   "Avg Days Medallions on Road": 29.9,
+   "Avg Hours Per Day Per Medallion": 14.7,
+   "Avg Days Drivers on Road": 22.9,
+   "Avg Hours Per Day Per Driver": 8.2,
+   "Avg Minutes Per Trip": 12.7,
+   "Percent of Trips Paid with Credit Card": "43%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2011-11"
+   },
+   "Trips Per Day": "484,122",
+   "Farebox Per Day": "5,572,296",
+   "Unique Drivers": "31,022",
+   "Unique Medallions": "13,319",
+   "Medallions Per Day": "12,858",
+   "Avg Days Medallions on Road": 29,
+   "Avg Hours Per Day Per Medallion": 14.7,
+   "Avg Days Drivers on Road": 22.3,
+   "Avg Hours Per Day Per Driver": 8.2,
+   "Avg Minutes Per Trip": 12.9,
+   "Percent of Trips Paid with Credit Card": "44%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2011-10"
+   },
+   "Trips Per Day": "506,532",
+   "Farebox Per Day": "5,790,312",
+   "Unique Drivers": "31,341",
+   "Unique Medallions": "13,322",
+   "Medallions Per Day": "12,857",
+   "Avg Days Medallions on Road": 29.9,
+   "Avg Hours Per Day Per Medallion": 15,
+   "Avg Days Drivers on Road": 23,
+   "Avg Hours Per Day Per Driver": 8.3,
+   "Avg Minutes Per Trip": 12.7,
+   "Percent of Trips Paid with Credit Card": "45%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2011-09"
+   },
+   "Trips Per Day": "487,470",
+   "Farebox Per Day": "5,687,581",
+   "Unique Drivers": "30,917",
+   "Unique Medallions": "13,313",
+   "Medallions Per Day": "12,797",
+   "Avg Days Medallions on Road": 28.8,
+   "Avg Hours Per Day Per Medallion": 14.9,
+   "Avg Days Drivers on Road": 22.2,
+   "Avg Hours Per Day Per Driver": 8.3,
+   "Avg Minutes Per Trip": 13.1,
+   "Percent of Trips Paid with Credit Card": "44%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2011-08"
+   },
+   "Trips Per Day": "427,740",
+   "Farebox Per Day": "4,851,734",
+   "Unique Drivers": "30,144",
+   "Unique Medallions": "13,295",
+   "Medallions Per Day": "12,216",
+   "Avg Days Medallions on Road": 28.5,
+   "Avg Hours Per Day Per Medallion": 13.9,
+   "Avg Days Drivers on Road": 21.9,
+   "Avg Hours Per Day Per Driver": 8,
+   "Avg Minutes Per Trip": 12.1,
+   "Percent of Trips Paid with Credit Card": "44%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2011-07"
+   },
+   "Trips Per Day": "475,475",
+   "Farebox Per Day": "5,350,809",
+   "Unique Drivers": "30,683",
+   "Unique Medallions": "13,270",
+   "Medallions Per Day": "12,612",
+   "Avg Days Medallions on Road": 29.5,
+   "Avg Hours Per Day Per Medallion": 14.6,
+   "Avg Days Drivers on Road": 22.6,
+   "Avg Hours Per Day Per Driver": 8.3,
+   "Avg Minutes Per Trip": 12.1,
+   "Percent of Trips Paid with Credit Card": "43%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2011-06"
+   },
+   "Trips Per Day": "503,152",
+   "Farebox Per Day": "5,743,238",
+   "Unique Drivers": "31,094",
+   "Unique Medallions": "13,285",
+   "Medallions Per Day": "12,760",
+   "Avg Days Medallions on Road": 28.8,
+   "Avg Hours Per Day Per Medallion": 15.1,
+   "Avg Days Drivers on Road": 22.4,
+   "Avg Hours Per Day Per Driver": 8.3,
+   "Avg Minutes Per Trip": 12.6,
+   "Percent of Trips Paid with Credit Card": "43%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2011-05"
+   },
+   "Trips Per Day": "501,708",
+   "Farebox Per Day": "5,730,613",
+   "Unique Drivers": "31,259",
+   "Unique Medallions": "13,291",
+   "Medallions Per Day": "12,745",
+   "Avg Days Medallions on Road": 29.7,
+   "Avg Hours Per Day Per Medallion": 14.9,
+   "Avg Days Drivers on Road": 22.8,
+   "Avg Hours Per Day Per Driver": 8.3,
+   "Avg Minutes Per Trip": 12.5,
+   "Percent of Trips Paid with Credit Card": "42%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2011-04"
+   },
+   "Trips Per Day": "490,577",
+   "Farebox Per Day": "5,456,034",
+   "Unique Drivers": "31,022",
+   "Unique Medallions": "13,302",
+   "Medallions Per Day": "12,178",
+   "Avg Days Medallions on Road": 27.5,
+   "Avg Hours Per Day Per Medallion": 15.1,
+   "Avg Days Drivers on Road": 21.3,
+   "Avg Hours Per Day Per Driver": 8.4,
+   "Avg Minutes Per Trip": 12.1,
+   "Percent of Trips Paid with Credit Card": "42%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2011-03"
+   },
+   "Trips Per Day": "518,212",
+   "Farebox Per Day": "5,717,207",
+   "Unique Drivers": "30,960",
+   "Unique Medallions": "13,288",
+   "Medallions Per Day": "12,852",
+   "Avg Days Medallions on Road": 30,
+   "Avg Hours Per Day Per Medallion": 15,
+   "Avg Days Drivers on Road": 23.1,
+   "Avg Hours Per Day Per Driver": 8.4,
+   "Avg Minutes Per Trip": 11.9,
+   "Percent of Trips Paid with Credit Card": "43%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2011-02"
+   },
+   "Trips Per Day": "507,167",
+   "Farebox Per Day": "5,474,959",
+   "Unique Drivers": "30,359",
+   "Unique Medallions": "13,253",
+   "Medallions Per Day": "12,678",
+   "Avg Days Medallions on Road": 26.8,
+   "Avg Hours Per Day Per Medallion": 14.9,
+   "Avg Days Drivers on Road": 20.8,
+   "Avg Hours Per Day Per Driver": 8.4,
+   "Avg Minutes Per Trip": 11.8,
+   "Percent of Trips Paid with Credit Card": "43%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2011-01"
+   },
+   "Trips Per Day": "434,297",
+   "Farebox Per Day": "4,661,317",
+   "Unique Drivers": "29,682",
+   "Unique Medallions": "12,798",
+   "Medallions Per Day": "11,624",
+   "Avg Days Medallions on Road": 28.2,
+   "Avg Hours Per Day Per Medallion": 14.4,
+   "Avg Days Drivers on Road": 21.4,
+   "Avg Hours Per Day Per Driver": 8.2,
+   "Avg Minutes Per Trip": 11.7,
+   "Percent of Trips Paid with Credit Card": "41%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2010-12"
+   },
+   "Trips Per Day": "445,727",
+   "Farebox Per Day": "4,985,892",
+   "Unique Drivers": "29,414",
+   "Unique Medallions": "12,491",
+   "Medallions Per Day": "11,612",
+   "Avg Days Medallions on Road": 28.8,
+   "Avg Hours Per Day Per Medallion": 14.7,
+   "Avg Days Drivers on Road": 21.9,
+   "Avg Hours Per Day Per Driver": 8.2,
+   "Avg Minutes Per Trip": 12.6,
+   "Percent of Trips Paid with Credit Card": "38%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2010-11"
+   },
+   "Trips Per Day": "463,701",
+   "Farebox Per Day": "5,165,797",
+   "Unique Drivers": "29,348",
+   "Unique Medallions": "12,347",
+   "Medallions Per Day": "11,876",
+   "Avg Days Medallions on Road": 28.9,
+   "Avg Hours Per Day Per Medallion": 14.8,
+   "Avg Days Drivers on Road": 21.9,
+   "Avg Hours Per Day Per Driver": 8.2,
+   "Avg Minutes Per Trip": 12.2,
+   "Percent of Trips Paid with Credit Card": "39%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2010-10"
+   },
+   "Trips Per Day": "457,996",
+   "Farebox Per Day": "5,122,617",
+   "Unique Drivers": "29,128",
+   "Unique Medallions": "12,268",
+   "Medallions Per Day": "11,271",
+   "Avg Days Medallions on Road": 28.5,
+   "Avg Hours Per Day Per Medallion": 15.3,
+   "Avg Days Drivers on Road": 21.9,
+   "Avg Hours Per Day Per Driver": 8.4,
+   "Avg Minutes Per Trip": 12.3,
+   "Percent of Trips Paid with Credit Card": "39%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2010-09"
+   },
+   "Trips Per Day": "517,972",
+   "Farebox Per Day": "5,827,246",
+   "Unique Drivers": "28,989",
+   "Unique Medallions": "12,221",
+   "Medallions Per Day": "11,765",
+   "Avg Days Medallions on Road": 28.9,
+   "Avg Hours Per Day Per Medallion": 14.7,
+   "Avg Days Drivers on Road": 21.7,
+   "Avg Hours Per Day Per Driver": 8.3,
+   "Avg Minutes Per Trip": 12.3,
+   "Percent of Trips Paid with Credit Card": "38%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2010-08"
+   },
+   "Trips Per Day": "404,115",
+   "Farebox Per Day": "4,490,108",
+   "Unique Drivers": "28,574",
+   "Unique Medallions": "12,206",
+   "Medallions Per Day": "11,224",
+   "Avg Days Medallions on Road": 28.5,
+   "Avg Hours Per Day Per Medallion": 14.4,
+   "Avg Days Drivers on Road": 21.5,
+   "Avg Hours Per Day Per Driver": 8.1,
+   "Avg Minutes Per Trip": 11.8,
+   "Percent of Trips Paid with Credit Card": "37%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2010-07"
+   },
+   "Trips Per Day": "472,752",
+   "Farebox Per Day": "5,216,891",
+   "Unique Drivers": "30,562",
+   "Unique Medallions": "13,307",
+   "Medallions Per Day": "12,457",
+   "Avg Days Medallions on Road": 29,
+   "Avg Hours Per Day Per Medallion": 14.5,
+   "Avg Days Drivers on Road": 22.3,
+   "Avg Hours Per Day Per Driver": 8.2,
+   "Avg Minutes Per Trip": null,
+   "Percent of Trips Paid with Credit Card": "37%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2010-06"
+   },
+   "Trips Per Day": "494,137",
+   "Farebox Per Day": "5,503,949",
+   "Unique Drivers": "30,812",
+   "Unique Medallions": "13,305",
+   "Medallions Per Day": "12,671",
+   "Avg Days Medallions on Road": 28.6,
+   "Avg Hours Per Day Per Medallion": 14.9,
+   "Avg Days Drivers on Road": 22.2,
+   "Avg Hours Per Day Per Driver": 8.3,
+   "Avg Minutes Per Trip": null,
+   "Percent of Trips Paid with Credit Card": "36%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2010-05"
+   },
+   "Trips Per Day": "499,374",
+   "Farebox Per Day": "5,561,218",
+   "Unique Drivers": "30,950",
+   "Unique Medallions": "13,309",
+   "Medallions Per Day": "12,729",
+   "Avg Days Medallions on Road": 29.6,
+   "Avg Hours Per Day Per Medallion": 14.8,
+   "Avg Days Drivers on Road": 22.7,
+   "Avg Hours Per Day Per Driver": 8.3,
+   "Avg Minutes Per Trip": null,
+   "Percent of Trips Paid with Credit Card": "35%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2010-04"
+   },
+   "Trips Per Day": "504,798",
+   "Farebox Per Day": "5,502,545",
+   "Unique Drivers": "30,827",
+   "Unique Medallions": "13,326",
+   "Medallions Per Day": "12,856",
+   "Avg Days Medallions on Road": 28.9,
+   "Avg Hours Per Day Per Medallion": 14.8,
+   "Avg Days Drivers on Road": 22.3,
+   "Avg Hours Per Day Per Driver": 8.3,
+   "Avg Minutes Per Trip": null,
+   "Percent of Trips Paid with Credit Card": "35%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2010-03"
+   },
+   "Trips Per Day": "415,567",
+   "Farebox Per Day": "3,011,750",
+   "Unique Drivers": "28,709",
+   "Unique Medallions": "12,183",
+   "Medallions Per Day": "10,382",
+   "Avg Days Medallions on Road": 26.4,
+   "Avg Hours Per Day Per Medallion": 15.1,
+   "Avg Days Drivers on Road": 20.4,
+   "Avg Hours Per Day Per Driver": 8.3,
+   "Avg Minutes Per Trip": 11.5,
+   "Percent of Trips Paid with Credit Card": "35%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2010-02"
+   },
+   "Trips Per Day": "397,969",
+   "Farebox Per Day": "3,392,416",
+   "Unique Drivers": "28,255",
+   "Unique Medallions": "12,171",
+   "Medallions Per Day": "10,045",
+   "Avg Days Medallions on Road": 23.1,
+   "Avg Hours Per Day Per Medallion": 14.6,
+   "Avg Days Drivers on Road": 17.6,
+   "Avg Hours Per Day Per Driver": 8.3,
+   "Avg Minutes Per Trip": 11.1,
+   "Percent of Trips Paid with Credit Card": "35%",
+   "FIELD13": ""
+},
+ {
+   "Month": {
+      "Year": "2010-01"
+   },
+   "Trips Per Day": "479,376",
+   "Farebox Per Day": "4,968,817",
+   "Unique Drivers": "30,659",
+   "Unique Medallions": "13,305",
+   "Medallions Per Day": "12,727",
+   "Avg Days Medallions on Road": 29.7,
+   "Avg Hours Per Day Per Medallion": 14.3,
+   "Avg Days Drivers on Road": 22.5,
+   "Avg Hours Per Day Per Driver": 8.2,
+   "Avg Minutes Per Trip": null,
+   "Percent of Trips Paid with Credit Card": "32%",
+   "FIELD13": ""
+}
+]
