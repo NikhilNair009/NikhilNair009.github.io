@@ -3,17 +3,19 @@
 
     myConnector.getSchema = function (schemaCallback) {
     var cols = [
-        { id : "my", alias : "Month/Year", dataType : tableau.dataTypeEnum.float },
-        { id : "tpd", alias : "Trips Per Day", dataType : tableau.dataTypeEnum.float },
-        { id : "fpd", alias : "Farebox Per Day", dataType : tableau.dataTypeEnum.float },
-        { id : "um", alias : "Unique Medallions",dataType : tableau.dataTypeEnum.float },
-        { id : "mpd", alias : "Medallions Per Day", dataType : tableau.dataTypeEnum.float },
-        { id : "admr", alias : "Avg Days Medallions on Road", dataType : tableau.dataTypeEnum.float },
-        { id : "ahpdpm", alias : "Avg Hours Per Day Per Medallion", dataType : tableau.dataTypeEnum.float },
-        { id : "addor", alias : "Avg Days Drivers on Road", dataType : tableau.dataTypeEnum.float },
-        { id : "ahpdpd", alias : "Avg Hours Per Day Per Driver", dataType : tableau.dataTypeEnum.float },
-        { id : "ampt", alias : "Avg Minutes Per Trip", dataType : tableau.dataTypeEnum.float },
-        { id : "cc", alias : "Percent of Trips Paid with Credit Card", dataType : tableau.dataTypeEnum.float }
+    	
+        { id : "my", dataType : tableau.dataTypeEnum.int },
+        { id : "tpd", dataType : tableau.dataTypeEnum.int },
+        { id : "fpd", dataType : tableau.dataTypeEnum.int },
+        { id : "um",dataType : tableau.dataTypeEnum.int },
+        { id : "ud",dataType : tableau.dataTypeEnum.int },
+        { id : "mpd", dataType : tableau.dataTypeEnum.int },
+        { id : "admr",  dataType : tableau.dataTypeEnum.int },
+        { id : "ahpdpm",  dataType : tableau.dataTypeEnum.int},
+        { id : "addor",  dataType : tableau.dataTypeEnum.int },
+        { id : "ahpdpd", dataType : tableau.dataTypeEnum.int },
+        { id : "ampt",  dataType : tableau.dataTypeEnum.int},
+        { id : "cc", dataType : tableau.dataTypeEnum.int }
     ];
 
     var tableInfo = {
@@ -26,25 +28,25 @@
 };
 
     myConnector.getData = function(table, doneCallback) {
-    $.getJSON("https://s3.amazonaws.com/nikhilstrail/nyctaxi.json", function(resp) {
-        var feat = resp.features,
+    $.getJSON("https://github.com/NikhilNair009/NikhilNair009.github.io/blob/master/nyctaxi.json", function(resp) {
+        var feat = resp;
             tableData = [];
 
         // Iterate over the JSON object
         for (var i = 0, len = feat.length; i < len; i++) {
             tableData.push({
-                
-                "my": feat[i].properties.my,
-                "tpd": feat[i].properties.tpd,
-                "fpd": feat[i].properties.fpd,
-                "um": feat[i].properties.um,
-                "mpd": feat[i].properties.mpd,
-                "admr": feat[i].properties.admr,
-                "ahpdpm": feat[i].properties.ahpdpm,
-                "addor": feat[i].properties.addor,
-                "ahpdpd": feat[i].properties.ahpdpd,
-                "ampt": feat[i].properties.ampt,
-                "cc": feat[i].properties.cc
+                "my": feat[i]["Month"]["Year"],
+                "tpd": feat[i]["Trips Per Day"],
+                "fpd": feat[i] ["Farebox Per Day"],
+                "um": feat[i] ["Unique Medallions"],
+                "ud": feat[i] ["Unique Drivers"],
+                "mpd": feat[i] ["Medallions Per Day"],
+                "admr": feat[i] ["Avg Days Medallions on Road"],
+                "ahpdpm": feat[i] ["Avg Hours Per Day Per Medallion"] ,
+                "addor": feat[i] ["Avg Days Drivers on Road"],
+                "ahpdpd": feat[i] ["Avg Hours Per Day Per Driver"],
+                "ampt": feat[i] ["Avg Minutes Per Trip"],
+                "cc": feat[i] ["Percent of Trips Paid with Credit Card"]
             });
         }
 
