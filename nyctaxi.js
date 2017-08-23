@@ -3,7 +3,6 @@
 
     myConnector.getSchema = function (schemaCallback) {
     var cols = [
-        { id : "id", dataType: tableau.dataTypeEnum.string },
         { id : "my", alias : "Month/Year", dataType : tableau.dataTypeEnum.float },
         { id : "tpd", alias : "Trips Per Day", dataType : tableau.dataTypeEnum.float },
         { id : "fpd", alias : "Farebox Per Day", dataType : tableau.dataTypeEnum.float },
@@ -27,14 +26,14 @@
 };
 
     myConnector.getData = function(table, doneCallback) {
-    $.getJSON("http://www.nyc.gov/html/tlc/downloads/csv/data_reports_monthly_indicators_yellow.csv", function(resp) {
+    $.getJSON("https://s3.amazonaws.com/nikhilstrail/nyctaxi.json", function(resp) {
         var feat = resp.features,
             tableData = [];
 
         // Iterate over the JSON object
         for (var i = 0, len = feat.length; i < len; i++) {
             tableData.push({
-                "id": feat[i].id,
+                
                 "my": feat[i].properties.my,
                 "tpd": feat[i].properties.tpd,
                 "fpd": feat[i].properties.fpd,
