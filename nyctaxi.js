@@ -19,8 +19,6 @@
     ];
 
     var tableInfo = {
-        id : "taxi",
-        
         columns : cols
     };
 
