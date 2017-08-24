@@ -28,7 +28,7 @@
 };
 
     myConnector.getData = function(table, doneCallback) {
-    $.getJSON("https://s3.amazonaws.com/nikhilstrail/nyctaxi.json", function(resp) {
+    $.getJSON("http://www.nyc.gov/html/tlc/downloads/csv/data_reports_monthly_indicators_yellow.csv", function(resp) {
         var feat = resp;
             tableData = [];
 
