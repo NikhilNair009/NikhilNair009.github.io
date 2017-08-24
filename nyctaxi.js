@@ -5,17 +5,17 @@
     var cols = [
     	
         { id : "date", alias:"Date", dataType : tableau.dataTypeEnum.string },
-        { id : "trips", alias: "Trips Per Day",dataType : tableau.dataTypeEnum.float },
-        { id : "farebox",alias: "Farebox Per Day", dataType : tableau.dataTypeEnum.float },
-        { id : "uniquemed",alias: "Unique Medallions", dataType : tableau.dataTypeEnum.float },
-        { id : "uniquedrivers", alias: "Unique Drivers", dataType : tableau.dataTypeEnum.float},
-        { id : "medperday", alias: "Medallions Per Day", dataType : tableau.dataTypeEnum.float },
-        { id : "avg1", alias: "Average Days Medallions On Road",  dataType : tableau.dataTypeEnum.float },
-        { id : "avg2", alias: "Avg Hours Per Day Per Medallion",  dataType : tableau.dataTypeEnum.float},
-        { id : "avg3", alias:"Avg Days Drivers on Road",  dataType : tableau.dataTypeEnum.float},
-        { id : "avg4", alias:"Avg Hours Per Day Per Driver", dataType : tableau.dataTypeEnum.float},
-        { id : "avg5", alias: "Avg Minutes Per Trip",  dataType : tableau.dataTypeEnum.float},
-        { id : "cc", alias: "Percent of Trips Paid with Credit Card", dataType : tableau.dataTypeEnum.float}
+        { id : "trips", alias: "Trips Per Day",dataType : tableau.dataTypeEnum.string },
+        { id : "farebox",alias: "Farebox Per Day", dataType : tableau.dataTypeEnum.string },
+        { id : "uniquemed",alias: "Unique Medallions", dataType : tableau.dataTypeEnum.string },
+        { id : "uniquedrivers", alias: "Unique Drivers", dataType : tableau.dataTypeEnum.string},
+        { id : "medperday", alias: "Medallions Per Day", dataType : tableau.dataTypeEnum.string },
+        { id : "avg1", alias: "Average Days Medallions On Road",  dataType : tableau.dataTypeEnum.string },
+        { id : "avg2", alias: "Avg Hours Per Day Per Medallion",  dataType : tableau.dataTypeEnum.string},
+        { id : "avg3", alias:"Avg Days Drivers on Road",  dataType : tableau.dataTypeEnum.string},
+        { id : "avg4", alias:"Avg Hours Per Day Per Driver", dataType : tableau.dataTypeEnum.string},
+        { id : "avg5", alias: "Avg Minutes Per Trip",  dataType : tableau.dataTypeEnum.string},
+        { id : "cc", alias: "Percent of Trips Paid with Credit Card", dataType : tableau.dataTypeEnum.string}
     ];
 
     var tableInfo = {
