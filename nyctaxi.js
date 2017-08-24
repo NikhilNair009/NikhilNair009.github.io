@@ -28,7 +28,7 @@
 };
 
     myConnector.getData = function(table, doneCallback) {
-    $.getCSV("https://s3.amazonaws.com/nikhilstrail/nyctaxi.json", function(resp) {
+    $.getJSON("https://s3.amazonaws.com/nikhilstrail/nyctaxi.json", function(resp) {
         var feat = resp;
             tableData = [];
 
