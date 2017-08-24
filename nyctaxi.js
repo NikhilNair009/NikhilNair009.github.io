@@ -19,6 +19,7 @@
     ];
 
     var tableInfo = {
+        alias : " NYC Taxi Data",
         columns : cols
     };
 
