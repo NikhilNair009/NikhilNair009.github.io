@@ -19,8 +19,8 @@
     ];
 
     var tableInfo = {
-        id : "Taxi Info",
-        alias : " NYC Taxi Data",
+        id : "taxi",
+        alias : "TLC Trip Data",
         columns : cols
     };
 
