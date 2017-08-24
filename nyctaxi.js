@@ -28,7 +28,7 @@
 };
 
     myConnector.getData = function(table, doneCallback) {
-    $.getJSON("https://github.com/NikhilNair009/NikhilNair009.github.io/blob/master/nyctaxi.json", function(resp) {
+    $.getJSON("https://s3.amazonaws.com/nikhilstrail/nyctaxi.json", function(resp) {
         var feat = resp;
             tableData = [];
 
@@ -63,3 +63,6 @@
     });
 });
 })();
+
+
+
