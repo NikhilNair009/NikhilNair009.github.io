@@ -20,7 +20,7 @@
 
     var tableInfo = {
         id : "taxi",
-        alias : ,
+        
         columns : cols
     };
 
